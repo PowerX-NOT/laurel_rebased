@@ -1,6 +1,5 @@
 /*
  * Copyright (C) 2015 Red Hat, Inc.
- * Copyright (C) 2021 XiaoMi, Inc.
  * All Rights Reserved.
  *
  * Authors:
